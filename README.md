@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Hello! I'm Fuat
-- 🔭 I am Software Engineer for 3 years and right now I am learning Java Automation
+- 🔭 I am a Software Engineer for 3 years and right now I am learning Java Automation
 - 🌱 I had an oppurtunity to use several programming languages Java, JavaScript(Angular), Python as you see below 😄...
